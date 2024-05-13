@@ -1,6 +1,6 @@
 {
   "name": "optopiasepoliasafedeployment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/safe-global/safe-deployments/",
   "license": "MIT",
